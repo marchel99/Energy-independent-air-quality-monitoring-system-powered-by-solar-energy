@@ -1,0 +1,5 @@
+D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/build/debug/CMakeFiles/31_05_2024.dir
+D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/build/debug/CMakeFiles/edit_cache.dir
+D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/build/debug/CMakeFiles/rebuild_cache.dir
+D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/build/debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/build/debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

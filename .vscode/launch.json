@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "stlink",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/debug/31_05_2024.elf",
+            "name": "Debug 31_05_2024 with ST-LINK",
+            "device": "STM32L476RG",
+            "svdFile": "D:/ST/SVD_files/STM32L4x6.svd",
+            "stlinkPath": "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32_2.1.300.202403291623/tools/bin/ST-LINK_gdbserver.exe",
+            "stm32cubeprogrammer": "D:/ST/STM32Prg/bin"
+        }
+    ]
+}

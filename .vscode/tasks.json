@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build blink",
+            "type": "shell",
+            "command": "ninja -v",
+            "args": [],
+            "options": {
+                "cwd": "${workspaceFolder}/16/blink/out"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "clean blink",
+            "type": "shell",
+            "command": "ninja -v clean",
+            "args": [],
+            "options": {
+                "cwd": "${workspaceFolder}/16/blink/out"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "build queue",
+            "type": "shell",
+            "command": "ninja -v",
+            "args": [],
+            "options": {
+                "cwd": "${workspaceFolder}/16/queue/out"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "clean queue",
+            "type": "shell",
+            "command": "ninja -v clean",
+            "args": [],
+            "options": {
+                "cwd": "${workspaceFolder}/16/queue/out"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
