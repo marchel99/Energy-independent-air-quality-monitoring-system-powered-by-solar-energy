@@ -78,55 +78,55 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-bme280-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-bme280-master"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-ens160-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-ens160-master"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-sen05xx-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-sen05xx-master"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-max17048-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-max17048-master"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-epd4in2b-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-epd4in2b-master"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../FATFS/Target"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../FATFS/Target"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../FATFS/App"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../FATFS/App"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Core/Inc"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Core/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Middlewares/Third_Party/FatFs/src"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Middlewares/Third_Party/FatFs/src"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -221,55 +221,55 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-bme280-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-bme280-master"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-ens160-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-ens160-master"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-sen05xx-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-sen05xx-master"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-max17048-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-max17048-master"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/Libraries/stm32-epd4in2b-master"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/Libraries/stm32-epd4in2b-master"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../FATFS/Target"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../FATFS/Target"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../FATFS/App"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../FATFS/App"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Core/Inc"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Core/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Middlewares/Third_Party/FatFs/src"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Middlewares/Third_Party/FatFs/src"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/31_05_2024/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
+					"path" : "D:/ST/STM32CubeIDE_1.15.1/STM32CubeIDE/D/Users/mrchl/STM32CubeIDE/workspace_1.15.1/AirQualitySystem/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
